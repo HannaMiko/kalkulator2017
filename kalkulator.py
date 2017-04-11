@@ -8,20 +8,4 @@ get_help()
 zm1=int(input())
 zm2=int(input())
 print(dodawanie(zm1,zm2))
-<<<<<<< HEAD
-def dodawanie(a, b):
-     a = int(input('podaj pierwsza liczbe'))
-     b = int(input('podaj pierwsza liczbe'))
-     print(a+b)
-    
 
-dodawanie()git push 
-=======
-def dodawanie(a,b):
-  wynik =  a+b
-  return wynik
-
-zm1=int(input())
-zm2=int(input())
-print(dodawanie(zm1,zm2))
->>>>>>> zmiana_funkcji_dodawania
